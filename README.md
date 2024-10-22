@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/288c1ccf-24c2-41b5-996e-a78c030e4a26)
 
 # GLEngine
 A C++/OpenGL mesh viewer for OBJ format models.
